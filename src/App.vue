@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h1>Code Kata Ninja</h1>
     <Katas/>
   </div>
 </template>
